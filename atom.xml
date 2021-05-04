@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>2243798719.github.io</id>
+    <title>官方网站 | 华中薄荷科技</title>
+    <updated>2021-05-04T02:47:24.840Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="2243798719.github.io"/>
+    <link rel="self" href="2243798719.github.io/atom.xml"/>
+    <subtitle>华中薄荷科技的温暖小窝。</subtitle>
+    <rights>All rights reserved 2021, 官方网站 | 华中薄荷科技</rights>
+    <entry>
+        <title type="html"><![CDATA[[iLauncher] 0.0.5 最新亮点]]></title>
+        <id>https://2243798719.github.io/ilauncher-005-zui-xin-liang-dian</id>
+        <link href="https://2243798719.github.io/ilauncher-005-zui-xin-liang-dian"/>
+        <updated>2021-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minecraft iLauncher 0.0.5 发布会
+Minecraft iLauncher 0.0.5 发布了！
+
+本次亮点
+
+giao
+giao
+giao
+
+新版数据
+
+版本：&quot;0.0.5 bulid&quot;
+尺寸：...]]></summary>
+        <content type="html"><![CDATA[<h2 id="minecraft-ilauncher-005-发布会">Minecraft iLauncher 0.0.5 发布会</h2>
+<p>Minecraft iLauncher 0.0.5 发布了！</p>
+<hr>
+<h2 id="本次亮点">本次亮点</h2>
+<ol>
+<li>giao</li>
+<li>giao</li>
+<li>giao</li>
+</ol>
+<h2 id="新版数据">新版数据</h2>
+<ul>
+<li>版本：&quot;0.0.5 bulid&quot;</li>
+<li>尺寸：&quot;1009 TB&quot;</li>
+<li>下载地址：&quot;www.xxx.xxx.xyz.com.net.cn&quot;</li>
+</ul>
+<hr>
+<p><strong>感谢观看</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录]]></title>
+        <id>https://2243798719.github.io/1</id>
+        <link href="https://2243798719.github.io/1"/>
+        <updated>2021-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本站于2021年5月2日15点51分建立。
+谨此纪念。
+]]></summary>
+        <content type="html"><![CDATA[<p>本站于2021年5月2日15点51分建立。<br>
+谨此纪念。</p>
+]]></content>
+    </entry>
+</feed>
